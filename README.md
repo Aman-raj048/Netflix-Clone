@@ -2,8 +2,9 @@
 
 A responsive Netflix-inspired web application built with **HTML** and **CSS**. This project replicates the look and feel of Netflix's user interface with a modern, sleek design.
 
+## 🌐 Live Site
 
-https://aman-raj048.github.io/Netflix-Clone/
+**👉 [View Live Demo](https://aman-raj048.github.io/Netflix-Clone/)**
 
 ## 🎬 Features
 
