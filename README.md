@@ -110,4 +110,4 @@ If you have any questions or suggestions, feel free to:
 
 ---
 
-**Made with ❤️ by Aman Raj**
+**Made by Aman Raj**
